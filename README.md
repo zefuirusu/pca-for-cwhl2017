@@ -10,7 +10,7 @@ As a vital components of RongLian,
 ### OS Environment
 With `uname -r` it shows:
 `Linux debian 4.19.0-6-amd64 #1 SMP Debian 4.19.67-2+deb10u2 (2019-11-11)
-x86_64 GNU/Linux';
+x86_64 GNU/Linux`;
 ### Python Environment
 ```json
 {
