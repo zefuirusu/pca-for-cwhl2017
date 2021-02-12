@@ -18,8 +18,8 @@ import matplotlib as mpl
 mpl.rcParams['font.sans-serif'] = ['FangSong']
 # from sklearn import preprocessing
 
-fdir=r'./data/GLofChewang2017.xlsx'
-expdir=r'./data/ExpenseofCWHL2017.xlsx'
+fdir=r'../gldata/GLofChewang2017.xlsx'
+expdir=r'../gldata/ExpenseofCWHL2017.xlsx'
 
 # 2.Read and transfer general ledgers into matrix of expense data.
 
